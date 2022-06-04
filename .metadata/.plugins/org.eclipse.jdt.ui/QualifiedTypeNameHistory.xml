@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.tts.junithomework.controller.HomeController"/>
+    <fullyQualifiedTypeName name="org.springframework.boot.test.context.SpringBootTest.WebEnvironment"/>
+    <fullyQualifiedTypeName name="org.springframework.boot.web.server.LocalServerPort"/>
+    <fullyQualifiedTypeName name="org.springframework.boot.test.web.client.TestRestTemplate"/>
+    <fullyQualifiedTypeName name="org.springframework.boot.test.autoconfigure.web.servlet.AutoConfigureMockMvc"/>
+    <fullyQualifiedTypeName name="org.springframework.boot.test.context.SpringBootTest"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Controller"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMapping"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.ResponseBody"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
+    <fullyQualifiedTypeName name="com.tts.junithomework.controller.GreetingController"/>
+    <fullyQualifiedTypeName name="org.springframework.boot.test.autoconfigure.web.servlet.WebMvcTest"/>
+    <fullyQualifiedTypeName name="org.springframework.boot.test.mock.mockito.MockBean"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="org.springframework.test.web.servlet.MockMvc"/>
+    <fullyQualifiedTypeName name="service.GreetingService"/>
+</qualifiedTypeNameHistroy>
